@@ -75,6 +75,7 @@ function App() {
           )
         }
       </ul>
+      <a href="https://github.com/FranciscoOssian/labcomp-finder"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
     </main>
   );
 }
